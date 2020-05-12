@@ -7,3 +7,8 @@
   - Rewrite the project proposal.
   - Successfully running remote Julia client.
   - Checking the Travis.
+- May 12
+  - Adding CoC.
+  - Reading MLJ paper. 
+  - Starting the API Template.
+
