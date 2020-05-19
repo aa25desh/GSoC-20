@@ -7,8 +7,12 @@
   - Rewrite the project proposal.
   - Successfully running remote Julia client.
   - Checking the Travis.
-- May 12
+- May 12 - 18
   - Adding CoC.
-  - Reading MLJ paper. 
-  - Starting the API Template.
-
+  - Reading MLJ paper.
+  - Reading issues on Github and Discourse.
+  - Starting API document.
+  - Meeting #2.
+- May 19
+  - API document till classification.
+  - Complete Reading Assignment issue #2 on MLJTime.
