@@ -16,3 +16,6 @@
 - May 19
   - API document till classification.
   - Complete Reading Assignment issue #2 on MLJTime.
+- May 20
+  - Complete MLJBase PR.
+  - Add multivariate example and comparison of Data Sets to wiki.
