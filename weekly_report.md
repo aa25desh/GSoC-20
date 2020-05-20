@@ -1,0 +1,4 @@
+- Week - 1 (May 18 - 22)
+  - GitHub milestone
+  - Task Reflection 
+  - Deliverable & Task completed 
