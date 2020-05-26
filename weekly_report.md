@@ -1,4 +1,28 @@
 - Week - 1 (May 18 - 22)
   - GitHub milestone
   - Task Reflection 
+    - Glance at PyCall 
+      - There are different ways to wrap Python code.
+      - Some do's and don'ts (can be found on Readme of pkg)
+      - Tricks to speed up the Python <-> Julia calls.
+      - How to pass the streaming IO to python via Julia?
+    - Glance at SciKitLearn 
+      - This Pkg is one of the good examples of how to wrap the library.
+      - Checked code changes with commit history.
+      - Developed an overall understanding of pkg workflow.
+      - How SciKitLearnBase help SciKitLearn?
+    - The way MLJModels uses ScikitLearn
+      - The way module import and Pkg dependency work?
+    - Data Container
+      - we can use TimeSeries for classification.
+      - JuliaDB has mutable struct and overall should work fine.
+    - Reading the MLJ paper for Interface.
+      - The APIs Interface in MLJ is great and we can follow the style.
+  - Deliverable & Task completed 
+    - API wiki document.
+    - Reading issue #2 & #1 on MLJTime.
+
+- Week - 2 (May 25 - 29)
+  - GitHub milestone
+  - Task Reflection
   - Deliverable & Task completed 
