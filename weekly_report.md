@@ -25,4 +25,20 @@
 - Week - 2 (May 25 - 29)
   - GitHub milestone
   - Task Reflection
+    - Use of MLJ vs small pkgs for basic algorithms.
+      - Predicting single instance vs multiple instalce at same time in decesion tress.
+      - How do we tunen in mix of julia and puython objects. 
+    - Tables can't handel ND objects.
+      - We have to create Array(matrix) every time as input to algorithms. 
+    - train and test splits.
+      - Do we use sktime ts way to store data or csv.
+      - Can we put in train and test in single file and finally split before fit or predict.
   - Deliverable & Task completed 
+    - Julia implementation of tsf is complete. 
+    - Ipython notebook of tsf over gunpoint dataset.
+    - Functionality of ready to load data in MLJtime.
+- Week - 3 (June 1 - 6)
+  - GitHub milestone
+  - Task Reflection
+  - Deliverable & Task completed 
+    
